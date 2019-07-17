@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">MY Profile</string>
+    <string name="my_mage">My Image</string>
+    <string name="my_name">Mekolle Sone Gillis</string>
+    <string name="my_track">Android</string>
+    <string name="my_email">sone_gillis@yahoo.com</string>
+    <string name="my_phonenumber">237671906987</string>
+    <!--<string name="my_slack_username">@sonegillis</string>-->
+    <string name="my_country">Cameroon</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="email">Email:</string>
+    <string name="username">Slack Username:</string>
+</resources>
